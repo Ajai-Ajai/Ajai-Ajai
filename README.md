@@ -6,10 +6,10 @@ I'm a Full Stack Developer interested in collabrating on exciting projects . I'm
 
 ## Technologies & Skills 🛠
 
-- *Frontend*: HTML, CSS, Angular ,Spring
-- *Backend*: Java, Spring MVC, Spring Security using JWT, Spring Boot, Spring Data JPA , Hibernate, Microservices
+- *Frontend*: HTML, CSS, TypeScript, Angular, Spring
+- *Backend*: Java, Spring MVC, Spring Security(JWT, OAuth2), Spring Boot, Spring Data JPA, Hibernate
 - *Database*: MySQL
-- *Tools*: Maven, Postman, SonarQube, Redis, RabbitMQ, Splunk
+- *Tools*: Git, GitHub, Postman
 
 ## Interests 🤝
 
